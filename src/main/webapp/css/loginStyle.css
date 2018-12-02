@@ -1,0 +1,45 @@
+.cardBody{
+	display:inline;
+}
+
+.cardMain{
+	margin: auto;
+    margin-top: 100px;
+    width:70%;
+}
+
+.leftCol{
+	    float: left;
+    width: 50%;
+
+    text-align: center;
+}
+.rightCol{
+	float: right;
+    display: inline;
+    width: 50%;
+}
+.vl{
+	float:left;
+	border-left: 3px solid grey;
+    height: 250px;
+	
+}
+.loginForm{
+	    float: right;
+    width: 90%;
+}
+.button{
+	    padding: 5px 0px 10px 0px;
+}
+
+.changePassword{
+	font-size:12px;
+}
+
+body{
+	background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+
+}
